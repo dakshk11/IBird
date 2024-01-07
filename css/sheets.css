@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    color: chartreuse;
+}
+
+p{
+    text-align: center;
+    font-size: 24px;
+    background-color: aliceblue;
+    color: chartreuse;
+}
+
+.carousel{
+    background-color: aliceblue;
+    color: chartreuse;
+}
+br{
+    background-color: aliceblue;
+}
